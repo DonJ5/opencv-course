@@ -3,8 +3,8 @@
 import cv2 as cv
 import matplotlib.pyplot as plt
 
-img = cv.imread('../Resources/Photos/park.jpg')
-cv.imshow('Park', img)
+img = cv.imread('../Resources/Photos/tulomekabouk.jpg')
+cv.imshow('tulo me kabouk', img)
 
 # plt.imshow(img)
 # plt.show()

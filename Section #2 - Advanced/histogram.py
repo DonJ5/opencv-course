@@ -4,8 +4,8 @@ import cv2 as cv
 import matplotlib.pyplot as plt
 import numpy as np
 
-img = cv.imread('../Resources/Photos/cats.jpg')
-cv.imshow('Cats', img)
+img = cv.imread('../Resources/Photos/Ian.jpg')
+cv.imshow('Ian', img)
 
 blank = np.zeros(img.shape[:2], dtype='uint8')
 
